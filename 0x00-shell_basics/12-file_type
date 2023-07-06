@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "iamafile\n" >> $12-file_type
